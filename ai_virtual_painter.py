@@ -8,7 +8,7 @@ import hand_tracking_module as htm
 brushThickness = 25
 eraserThickness = 100
 
-folderPath = "/Users/satvikverma/Downloads/Header"
+folderPath = "/Users/satvikverma/Workspace/virtual_painter/Header"
 myList = os.listdir(folderPath)
 print(myList)
 overlayList = []
